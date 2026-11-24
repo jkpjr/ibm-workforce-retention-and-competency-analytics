@@ -1,1 +1,1 @@
-<title>IBM Workforce Retention and Competency Analytics<title>
+<title>IBM Workforce Retention and Competency Analytics</title>
