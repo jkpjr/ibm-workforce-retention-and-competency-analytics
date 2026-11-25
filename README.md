@@ -20,7 +20,7 @@ Interactive Power BI dashboard analyzing employee attrition, specifically target
 * **Which roles and performance tiers face the highest regrettable turnover risk?**
   * High-performer attrition is heavily concentrated in specific roles: **Sales Representative** emerges as the highest-risk role at **40.8%** attrition in the top risk slice, followed by elevated attrition in **Laboratory Technician** and **Human Resources**.
 * **What operational factors are most strongly associated with employees leaving?**
-  * Key influencer modeling identifies **OverTime = Yes** as the top driver—increasing the likelihood of attrition by **2.93x**—followed by lower compensation (**MonthlyIncome <= $2,800** at **2.60x**) and lower **JobInvolvement** (**2.24x**), pointing directly to workload burnout, pay compression, and engagement as actionable retention levers.
+  * Key influencer modeling identifies **OverTime = Yes** as the top driver, increasing the likelihood of attrition by **2.93x**, followed by lower compensation (**MonthlyIncome <= $2,800** at **2.60x**) and lower **JobInvolvement** (**2.24x**), pointing directly to workload burnout, pay compression, and engagement as actionable retention levers.
 
 ## 3. Repository Structure & Interactive Access
 * `Workforce_Retention_Analytics.pbix` — Interactive Power BI report file containing the data model, DAX measures, and visual layout.
